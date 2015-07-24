@@ -92,5 +92,6 @@ public class AVeryBigSum {
             sum += sum + a;
         }
         System.out.println(sum);
+        in.close();
     }
 }
