@@ -1,4 +1,4 @@
-package com.lzq.source;
+package com.lzq.source.warmup;
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
